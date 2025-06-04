@@ -28,6 +28,18 @@ const ProjectsSection = () => {
         "Déploiement d’une application de vote en environnement Docker multi-services. L’infrastructure inclut un backend Node.js, une base de données SQL, et un client web. Scripts de configuration pour l’automatisation, persistance des données, et communication inter-conteneurs. Le projet met en œuvre les fondamentaux DevOps.",
       image: "/vote.png",
     },
+    
+  {
+    title: "Bataille Navale – Python",
+    description: "Jeu de bataille navale codé en Python avec interface console. Gestion des tirs et règles classiques. Projet axé sur la logique et la programmation.",
+    image: "/bataillenavale.png"
+  },
+  {
+    title: "Jeu du Juste Prix – Python",
+    description: "Jeu du Juste Prix développé en Python. Le joueur doit deviner un prix secret avec des indices. Projet simple et ludique axé sur la gestion des entrées utilisateur et la logique conditionnelle.",
+    image: "/justeprix.png"
+  },
+
     {
       title: "Jeu de Dames Chinoises (Java)",
       description:
